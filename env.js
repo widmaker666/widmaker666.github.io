@@ -1,0 +1,1 @@
+export const OMDB_KEY = "c87e508d";
